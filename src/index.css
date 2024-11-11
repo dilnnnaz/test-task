@@ -1,0 +1,87 @@
+body {
+    font-family: Kaisei Tokumin, serif;
+    background-color: white;
+    color: black;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+.navbar-nav {
+    display: flex;
+    gap: 15px;
+}
+
+.btn-danger {
+    margin-left: auto;
+    font-weight: bold;
+}
+
+th, tbody {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+}
+
+nav a {
+    padding: 30px 100px;
+    transition: background-color 0.3s;
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+}
+
+nav a:hover {
+    background-color: gainsboro;
+    color: white;
+}
+
+.btn-info {
+    background-color: #218838;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.btn-info:hover {
+    background-color: darkgreen;
+    color: #ffffff;
+}
+.btn-danger {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+.btn-primary {
+    background-color: #45a049;
+    color: white;
+    border-color: black;
+}
+
+.btn-primary:hover {
+    background-color: #218838;
+}
+
+.navbar .nav-link {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.navbar .navbar-brand {
+    font-size: 1.8rem;
+}
+
+.nav-link {
+    border-right: 1px solid #ccc;
+    padding-right: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.nav-link:last-child {
+    border-right: none;
+}
