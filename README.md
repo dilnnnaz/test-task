@@ -1,7 +1,7 @@
 # Installing dependencies
 
 ## Installing dependencies for React Redux:
-npm install react-redux @reduxjs/toolkit
+npm install redux react-redux @reduxjs/toolkit
 
 ## Installing dependencies for working with TypeScript:
 npm install @types/react-redux
