@@ -1,13 +1,13 @@
 # Installing dependencies
 
-Installing dependencies for React Redux:
-### npm install react-redux @reduxjs/toolkit
+### Installing dependencies for React Redux:
+npm install react-redux @reduxjs/toolkit
 
-Installing dependencies for working with TypeScript:
-### npm install @types/react-redux
+### Installing dependencies for working with TypeScript:
+npm install @types/react-redux
 
-Bootstrap installation:
-### npm install bootstrap
+### Bootstrap installation:
+npm install bootstrap
 
-Running code:
-### npm start
+### Running code:
+npm start
